@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/addcase"
+            android:title="Add Case">
+
+        </item>
+
+        <item android:id="@+id/handle"
+            android:title="Handle Case">
+
+        </item>
+        <item android:id="@+id/search"
+            android:title="Search Donor">
+
+        </item>
+        <item
+            android:id="@+id/casehist"
+            android:title="Case History">
+
+        </item>
+        <item android:id="@+id/donordet"
+            android:title="Donor Details">
+
+        </item>
+
+
+    </group>
+</menu>
